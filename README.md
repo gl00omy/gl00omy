@@ -22,9 +22,12 @@ Hello, I'm a last-year CS student. Right now focusing on my thesis and building 
 <br />
 
 #
+### 📊 Stats
+![Zhibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=gl00omy&show_icons=true&theme=synthwave)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gl00omy&layout=compact&theme=synthwave&hide_border=true)
 
-
-
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=gl00omy&theme=synthwave&border_radius=4.5) -->
+#
 
 <!--
 **gl00omy/gl00omy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
