@@ -1,7 +1,6 @@
 # 🌊 Zhibek Tyulemissova
 **`Cloud and Infra Engineer`**
 <br />
-<br />
 #
 ### 🧰 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -18,8 +17,10 @@
 **`WinDbg`** 
 **`Windows Internals`** 
 **`Reverse Engineering`**
+**`Debugging`**
 **`WinAPI`** 
 **`IDA`**
+**`Ghidra`**
 <details open> 
   <summary><h3>📘 Completed </h3></summary>
   <p align="left">
