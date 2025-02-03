@@ -27,6 +27,7 @@
     <ul>
       <li>🌟 <strong>Windows Internals: Fundamentals</strong>  </li>
       <li>🔍 <strong>Windows Internals: Processes and Jobs</strong>  </li>
+      <li>🔍 <strong>Windows Internals: Threads</strong>  </li>
       <li>🏆 <strong>TryHackme: <a href="https://tryhackme.com/p/gl00omy">gl00omy</a></strong></li>
     </ul>
   </p>
